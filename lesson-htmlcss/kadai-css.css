@@ -1,0 +1,50 @@
+@charset="UTf-8";
+
+body{
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-size: 14px;
+    font-family: "Hiragino Sans";
+}
+
+h1,h2,h3{
+    margin-top:0;
+}
+
+p{
+    margin-left:5px;
+    margin-top: 0;
+}
+
+header{
+    width:1000px;
+    margin:0;
+    background-color:#ffcccc;
+}
+
+header p{
+    margin:0;
+}
+
+#wrapper{
+    width:1000px;
+    margin:0;
+    display:flex;
+}
+
+#main{
+    width:700px;
+    background-color:#ccffcc;
+}
+
+#menu{
+    width:300px;
+    background-color:#ccccff;
+}
+
+footer{
+    margin:0;
+    width:1000px;
+    background-color:#ffccff;
+}
